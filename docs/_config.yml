@@ -1,2 +1,12 @@
 theme: minima
 title: TIMP Product Pack
+description: Product handover pack for TIMP
+
+header_pages:
+  - index.md
+  - PRD.md
+  - Workflow.md
+  - DataDictionary.md
+  - RBAC.md
+  - DemoPlan.md
+  - Roadmap.md
