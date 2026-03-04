@@ -1,0 +1,22 @@
+[
+  {
+    "id": "usr-001",
+    "full_name": "Admin User",
+    "email": "admin@example.com",
+    "organisation_id": "org-001",
+    "title": "Regional Staff",
+    "role": "admin",
+    "verification_status": "verified",
+    "preferred_language": "en"
+  },
+  {
+    "id": "usr-002",
+    "full_name": "Investor User",
+    "email": "investor@example.com",
+    "organisation_id": "org-001",
+    "title": "Investment Director",
+    "role": "public_verified",
+    "verification_status": "verified",
+    "preferred_language": "en"
+  }
+]
